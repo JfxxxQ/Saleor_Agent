@@ -1,6 +1,6 @@
 # Saleor 智能购物助手（Saleor Agent）
 
-基于 [Saleor](https://saleor.io/) 开源电商平台构建的对话式购物 Agent。用户可以使用自然语言完成商品搜索、商品对比、购物车管理、配送方式选择、下单以及售后退换咨询。
+基于 [Saleor](https://saleor.io/) 电商平台构建的对话式购物 Agent。用户可以使用自然语言完成商品搜索、商品对比、购物车管理、配送方式选择、下单以及售后退换咨询。
 
 项目采用 Vue 3 + FastAPI + LangChain，结合 Milvus、Neo4j、ChromaDB、Redis、MySQL、PostgreSQL，实现检索增强、商品知识图谱和多层级对话记忆。
 
